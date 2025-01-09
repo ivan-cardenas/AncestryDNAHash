@@ -2,7 +2,7 @@
 COMPILE = g++
 FLAGS = 
 OBJS = HashTable.o
-OUT = source
+OUT = source.exe
 
 #targets
 all: main.cpp $(OBJS)
